@@ -1,5 +1,5 @@
-# List of 2K+ file extensions
-This repository provides a txt file containing a list of more than 2000 different file extensions for you to use.
+# Everything a programmer might need
+This repository provides diffrent kind of files that a programmer or a hacker might need to do his/her job..
 
 Please remember to give credit if you used this repository in your projects.
 
