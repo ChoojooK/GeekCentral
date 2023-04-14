@@ -4,7 +4,8 @@ This repository provides a txt file containing a list of more than 2000 differen
 Please remember to give credit if you used this repository in your projects.
 
 (I'm not responsible if you use this file for anything illegal)
-#Donate
+
+# Donate
 If you liked this project and wanted to support me, you can use the options below to support my job.
 
 Bitcoin: 1HVgM3NGHkebWYNdFExQFo5hR4JbMhjCRL
