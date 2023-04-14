@@ -1,5 +1,5 @@
 # Everything a programmer might need
-This repository provides diffrent kind of files that a programmer or a hacker might need to do his/her job..
+This repository provides diffrent kind of files that a programmer or a hacker might need to do his/her job.
 
 Please remember to give credit if you used this repository in your projects.
 
