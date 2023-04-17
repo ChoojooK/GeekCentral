@@ -1,9 +1,10 @@
 # Everything a programmer might need
-This repository provides diffrent kind of files that a programmer or a hacker might need to do his/her job.
+This repository provides different kinds of files, Datas, or information that a programmer or a hacker might need to do his/her job.
 
 Please remember to give credit if you used this repository in your projects.
 
-(I'm not responsible if you use this file for anything illegal)
+# Disclaimer
+This repository is only for educational purposes, and I'm not responsible for any misuse of this repository.
 
 # Donate
 If you liked this project and wanted to support me, you can use the options below to support my job.
