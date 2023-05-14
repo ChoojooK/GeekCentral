@@ -1,4 +1,4 @@
-## Everything a programmer might need
+## Everything a programmer might need to know
 This repository provides different kinds of files, Datas, or information that a programmer or a hacker might need to do his/her job.
 
 Please remember to give credit if you used this repository in your projects.
@@ -7,7 +7,7 @@ Please remember to give credit if you used this repository in your projects.
 This repository is only for educational purposes and general use only, and I'm not responsible for any misuse of this repository.
 
 ### Donate
-If you liked this project and wanted to support me, you can use the options below to support my job.
+Finding all of this datas for you is not an easy job to do. If you liked this project and wanted to support my job, you can use the options below to support my job.
 
 Bitcoin: 1HVgM3NGHkebWYNdFExQFo5hR4JbMhjCRL
 
