@@ -676,7 +676,6 @@ UnrealScript
 Vala
 VB.NET
 VBScript
-VBscript
 Verilog
 Vim script
 Viper (Ethereum/Ether (ETH))
@@ -689,7 +688,6 @@ Visual LISP
 Visual Objects
 Visual Prolog
 VisualLISP
-WATFIV
 WATFIV, WATFOR (WATerloo FORtran IV)
 WebAssembly
 WebDNA
