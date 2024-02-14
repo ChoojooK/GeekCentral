@@ -1,28 +1,37 @@
-## Everything a programmer might need to know
-This repository provides different kinds of files, Datas, or information that a programmer or a hacker might need to do his/her job.
+## GeekCentral: Your Ultimate Resource Hub for Computer Enthusiasts
+Welcome to GeekCentral, your one-stop destination for a wealth of information tailored specifically for computer enthusiasts, programmers, and hackers alike. Whether you're delving into the depths of code, exploring new technologies, or seeking essential resources to fuel your passion for computing, you'll find everything you need right here.
 
-Please remember to give credit if you used this repository in your projects.
+### What We Offer
+Our repository is packed with a diverse array of files, datasets, and information meticulously curated to cater to the needs of tech aficionados. From comprehensive lists of file extensions to handy reference guides, programming tutorials, and more, GeekCentral is your go-to source for all things tech-related.
 
-## Disclaimer
-This repository is only for educational purposes and general use only, and I'm not responsible for any misuse of this repository.
+**Note:** While we encourage exploration and learning, please remember to provide proper credit if you utilize any resources from this repository for commercial purposes.
 
-### Donate
-Finding all of this datas for you is not an easy job to do. If you liked this project and wanted to support my job, you can use the options below to support my job.
+### Disclaimer
+GeekCentral is committed to providing valuable resources for educational and personal use. However, we must stress that this repository is intended for general use only. We cannot be held responsible for any misuse or illegal activities stemming from the contents of this repository.
 
-Bitcoin: 1HVgM3NGHkebWYNdFExQFo5hR4JbMhjCRL
+### Support the Project
+Curating and documenting these resources is a labor of love, but it's not without its challenges. If you find GeekCentral valuable and wish to support its ongoing maintenance and development, your donations are greatly appreciated. Every contribution helps us continue to expand and improve this repository, ensuring that it remains a valuable asset for the entire tech community.
 
-Ethereum: 0x262c80020de8f8edfd98b9e412ccb731882b832a
+Thank you for your support and happy coding!
 
-Litecoin: LYySQUwkzxhrFCaxEHVzqSbtuzSqzEoAZ8
+Bitcoin: 17kJi9MzQcsuQShZHkbk8JWmcZqUm43BVc
 
-Bitcoin cash: qqazpvdf87gs4x5jceun7feqwatka6e4tyf3ypv6q7
+Ethereum: 0xa7746296ab004c0a3ca0c62e78004492ab65739a
 
-Dogecoin: DHsXuBoHMEfRd7gwxYu2BST6TFFoZHipSV
+Litecoin: LMmsqBwVaw4Bj9f4H1o5fgmyXJ9NSa7iRp
 
-Dash: XhRYW6tK9ohMf3nxqjTzbEn9qdPqHc8H7Q
+Dogecoin: D8nfP3p6ygJy7GG3VtX7V2Q4wAWaHE7kqK
 
-Zcash: t1Q56Q3pV4vCdGXNNuKLFLLqTXkr3L2oUHf
+Dash: XxA9ASXigY2toYgQkDnekSmGGAPRnhaBWo
 
-Tron: TCntEYwygFVcvL7vdi9DUDgudBdn2khpbK
+Zcash: t1XC3T6nvJCJ6CRoAYDvGoF48XE4XKHhVPR
 
-Solana: 5VywSGrpGmwGoF5v7S2fNjkhh7CMZNiztARS4vKxc5T7
+Tron: TS5FxwtmaqxKjpyrrggiNrNYbJfmdY2ywd
+
+Solana: D8D96K5vepPHBKCpWC4J3RkFjTvHP48fdMNjveuQ3Bcv
+
+BNB: 0xa7746296ab004c0a3ca0c62e78004492ab65739a
+
+Avalanche-C: 0x54ba720c41b94b70a78a94e18ad2da5df399d7f3
+
+Polkadot: 15V8YFqPzn6XgEQENvCGF8EipPWts22bn4S4LXYYGPZJzBa
