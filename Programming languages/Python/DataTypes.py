@@ -1,8 +1,8 @@
 # Assign values to variables (to ensure independence)
-name = "John"
-age = 30
-is_student = False
-pi = 3.14
+name = "John" # String
+age = 30 # Int
+is_student = False # Bool
+pi = 3.14 # Float
 
 # Check variable types using type() function
 print("Type of 'name' variable:", type(name))
