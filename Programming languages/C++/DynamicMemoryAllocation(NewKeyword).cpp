@@ -1,5 +1,17 @@
-// Allocate memory for a single object
-int* ptr = new int; // Allocates memory for an integer
+#include <iostream>
 
-// Allocate memory for an array of objects
-int* arr = new int[10]; // Allocates memory for an array of 10 integers
+int main() {
+    // Allocate memory for a single integer
+    int* ptr = new int;
+
+    // Assign a value to the dynamically allocated integer
+    *ptr = 42;
+
+    // Print the value
+    std::cout << "Dynamically allocated integer: " << *ptr << std::endl;
+
+    // Deallocate memory
+    delete ptr;
+
+    return 0;
+}
