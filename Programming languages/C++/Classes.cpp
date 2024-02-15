@@ -1,29 +1,31 @@
 #include <iostream>
 
-// Define a class named 'Person'
-class Person {
+class Rectangle {
 public:
     // Member variables
-    std::string name;
-    int age;
-    
+    double width;
+    double height;
+
     // Constructor
-    Person(std::string n, int a) : name(n), age(a) {}
-    
-    // Member function to display information
-    void display() {
-        std::cout << "Name: " << name << ", Age: " << age << std::endl;
+    Rectangle(double w, double h) {
+        width = w;
+        height = h;
+    }
+
+    // Member function to calculate area
+    double calculateArea() {
+        return width * height;
     }
 };
 
 int main() {
-    // Create objects of the 'Person' class
-    Person person1("Alice", 25);
-    Person person2("Bob", 30);
-    
-    // Call member functions
-    person1.display();
-    person2.display();
-    
+    // Create objects of the Rectangle class
+    Rectangle rect1(5.0, 3.0);
+    Rectangle rect2(4.0, 6.0);
+
+    // Calculate and display the area of the rectangles
+    std::cout << "Area of rect1: " << rect1.calculateArea() << std::endl;
+    std::cout << "Area of rect2: " << rect2.calculateArea() << std::endl;
+
     return 0;
 }
