@@ -16,22 +16,22 @@ Thank you for your support and happy coding!
 
 Bitcoin: `17kJi9MzQcsuQShZHkbk8JWmcZqUm43BVc`
 
-Ethereum: 0xa7746296ab004c0a3ca0c62e78004492ab65739a
+Ethereum: `0xa7746296ab004c0a3ca0c62e78004492ab65739a`
 
-Litecoin: LMmsqBwVaw4Bj9f4H1o5fgmyXJ9NSa7iRp
+Litecoin: `LMmsqBwVaw4Bj9f4H1o5fgmyXJ9NSa7iRp`
 
-Dogecoin: D8nfP3p6ygJy7GG3VtX7V2Q4wAWaHE7kqK
+Dogecoin: `D8nfP3p6ygJy7GG3VtX7V2Q4wAWaHE7kqK`
 
-Dash: XxA9ASXigY2toYgQkDnekSmGGAPRnhaBWo
+Dash: `XxA9ASXigY2toYgQkDnekSmGGAPRnhaBWo`
 
-Zcash: t1XC3T6nvJCJ6CRoAYDvGoF48XE4XKHhVPR
+Zcash: `t1XC3T6nvJCJ6CRoAYDvGoF48XE4XKHhVPR`
 
-Tron: TS5FxwtmaqxKjpyrrggiNrNYbJfmdY2ywd
+Tron: `TS5FxwtmaqxKjpyrrggiNrNYbJfmdY2ywd`
 
-Solana: D8D96K5vepPHBKCpWC4J3RkFjTvHP48fdMNjveuQ3Bcv
+Solana: `D8D96K5vepPHBKCpWC4J3RkFjTvHP48fdMNjveuQ3Bcv`
 
-BNB: 0xa7746296ab004c0a3ca0c62e78004492ab65739a
+BNB: `0xa7746296ab004c0a3ca0c62e78004492ab65739a`
 
-Avalanche-C: 0x54ba720c41b94b70a78a94e18ad2da5df399d7f3
+Avalanche-C: `0x54ba720c41b94b70a78a94e18ad2da5df399d7f3`
 
-Polkadot: 15V8YFqPzn6XgEQENvCGF8EipPWts22bn4S4LXYYGPZJzBa
+Polkadot: `15V8YFqPzn6XgEQENvCGF8EipPWts22bn4S4LXYYGPZJzBa`
