@@ -14,7 +14,7 @@ Curating and documenting these resources is a labor of love, but it's not withou
 
 Thank you for your support and happy coding!
 
-Bitcoin: 17kJi9MzQcsuQShZHkbk8JWmcZqUm43BVc
+Bitcoin: `17kJi9MzQcsuQShZHkbk8JWmcZqUm43BVc`
 
 Ethereum: 0xa7746296ab004c0a3ca0c62e78004492ab65739a
 
