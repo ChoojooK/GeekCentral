@@ -1,3 +1,7 @@
+// An array is a collection of items (elements) of the same type stored at contiguous memory locations.
+// For instance, if you want to store several integers or several floats, an array lets you do this efficiently.
+
+
 // Declaration
 
 // Syntax for declaring an array:
