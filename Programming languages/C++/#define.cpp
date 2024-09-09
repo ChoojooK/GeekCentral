@@ -1,3 +1,11 @@
+// #define is a way to tell the C++ preprocessor to replace text in your code before it gets compiled.
+
+// #define performs text substitution without type checking, so be careful with how you use it.
+
+// Unlike regular code, #define does not end with a semicolon.
+
+// The scope of a #define is global within the file or until it’s undefined.
+
 #include <iostream>
 
 #define MAX_VALUE 100
