@@ -1,3 +1,5 @@
+// Arithmetic operators are used to perform mathematical operations on numbers.
+
 int a = 10, b = 5;
 int sum = a + b;  // Addition
 int difference = a - b;  // Subtraction
