@@ -1,3 +1,5 @@
+// Assignment operators are used to assign values to variables
+
 int x = 10;
 x += 5;  // Equivalent to x = x + 5
 x -= 3;  // Equivalent to x = x - 3
