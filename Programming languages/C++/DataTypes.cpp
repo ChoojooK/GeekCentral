@@ -1,3 +1,8 @@
+/*
+Data types define the type of data a variable can hold.
+They determine the size and layout of data in memory, as well as the operations that can be performed on the data.
+*/
+
 #include <iostream>
 
 int main() {
