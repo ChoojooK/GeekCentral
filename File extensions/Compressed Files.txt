@@ -1,0 +1,17 @@
+.zip
+.rar
+.7z
+.tar
+.gz
+.bz2
+.xz
+.iso
+.dmg
+.ace
+.cab
+.lz
+.z
+.arj
+.uue
+.bin
+.mpkg
