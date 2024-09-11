@@ -1,3 +1,8 @@
+/*
+Relational operators in C++ are used to compare two values.
+They return a boolean result (true or false) based on the relationship between the values.
+*/
+
 int x = 10, y = 5;
 bool isEqual = (x == y);  // Equal to
 bool isNotEqual = (x != y);  // Not equal to
