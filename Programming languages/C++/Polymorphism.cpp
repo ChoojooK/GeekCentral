@@ -1,3 +1,8 @@
+/*
+Polymorphism in C++ is a key concept in object-oriented programming that allows objects to be treated as instances of their base class rather than their actual class.
+It enables methods to do different things based on the object’s actual derived type, even when using a base class pointer or reference.
+*/
+
 #include <iostream>
 
 // Base class
