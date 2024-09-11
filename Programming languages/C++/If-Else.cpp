@@ -1,3 +1,8 @@
+/*
+In C++, if-else statements are used to execute code based on conditions.
+They allow you to branch your program’s flow depending on whether a condition is true or false.
+*/
+
 #include <iostream>
 
 int main() {
