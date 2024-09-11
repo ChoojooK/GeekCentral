@@ -1,3 +1,8 @@
+/*
+Nested if-else statements in C++ are used when you need to evaluate multiple conditions in a hierarchy.
+Essentially, you place one if-else statement inside another, allowing for more complex decision-making.
+*/
+
 #include <iostream>
 
 int main() {
