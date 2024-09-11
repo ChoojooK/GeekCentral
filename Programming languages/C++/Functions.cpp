@@ -1,3 +1,8 @@
+/*
+In C++, functions are blocks of code designed to perform a specific task.
+They help you organize and reuse code, making your programs more modular and easier to understand.
+*/
+
 #include <iostream>
 
 // Function declaration
