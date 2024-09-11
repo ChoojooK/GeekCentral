@@ -1,3 +1,5 @@
-Socket programming in Python allows you to create networked applications that communicate using sockets, which are endpoints for sending and receiving data between two nodes over a network. You can use socket programming to create client-server applications, where one program acts as a server, waiting for incoming connections, and another program acts as a client, connecting to the server to send or receive data.
+Socket programming in Python enables you to build networked applications that communicate over a network using sockets—endpoints for sending and receiving data between two nodes.
+With socket programming, you can create client-server applications: one program acts as the server, listening for incoming connections, while another program serves as the client, connecting to the server to exchange data.
+To establish a connection, run the server and client scripts in separate terminals.
 
-You can run the server and client scripts separately in different terminals to establish a connection between them. This is just a basic example to get you started with socket programming in Python.
+This example provides a foundational introduction to socket programming in Python, helping you get started with creating your own networked applications.
