@@ -1,0 +1,13 @@
+.exe
+.app
+.bat
+.sh
+.bin
+.msi
+.cmd
+.dmg
+.run
+.jar
+.pkg
+.bat
+.pl
