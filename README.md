@@ -14,6 +14,8 @@ Curating and documenting these resources is a labor of love, but it's not withou
 
 Thank you for your support and happy coding!
 
+PAYEER: `P1119065341`
+
 Bitcoin: `12KTnD33FYBitWNQv4kpM1Cq9rj8Fypx8s`
 
 Ethereum: `0xa7746296ab004c0a3ca0c62e78004492ab65739a`
