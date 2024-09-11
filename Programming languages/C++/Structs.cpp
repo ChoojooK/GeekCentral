@@ -1,3 +1,8 @@
+/*
+In C++, a struct (short for "structure") is a user-defined data type that groups related variables of different types into a single unit.
+Unlike classes, struct members are public by default, but they function similarly to classes otherwise.
+*/
+
 #include <iostream>
 
 // Define a struct named 'Point'
