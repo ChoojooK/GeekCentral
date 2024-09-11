@@ -1,0 +1,10 @@
+.ppt
+.pptx
+.odp
+.key
+.pps
+.ppsx
+.pdf
+.pot
+.potx
+.pptm
