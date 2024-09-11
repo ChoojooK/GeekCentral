@@ -1,3 +1,9 @@
+/*
+In C++, dynamic memory deallocation is done using the delete and delete[] operators.
+These operators free up memory that was previously allocated using new and new[], respectively.
+Properly managing memory is crucial to avoid memory leaks and other issues.
+*/
+
 #include <iostream>
 
 int main() {
