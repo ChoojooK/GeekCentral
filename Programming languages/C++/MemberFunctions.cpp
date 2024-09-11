@@ -1,3 +1,8 @@
+/*
+Member functions in C++ are functions that are defined within a class and operate on the data members of that class.
+They can access and modify the class’s private and protected data.
+*/
+
 #include <iostream>
 
 class Rectangle {
