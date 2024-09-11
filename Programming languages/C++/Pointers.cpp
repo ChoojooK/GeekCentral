@@ -1,3 +1,9 @@
+/*
+Pointers in C++ are variables that store memory addresses.
+They are powerful tools for dynamic memory management, accessing hardware, and implementing various data structures.
+*/
+
+
 //Declaration
 
 // Syntax for declaring a pointer:
