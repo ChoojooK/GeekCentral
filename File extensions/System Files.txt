@@ -1,0 +1,13 @@
+.sys
+.dll
+.drv
+.inf
+.ini
+.bat
+.log
+.cfg
+.dat
+.tmp
+.svc
+.dmp
+.reg
