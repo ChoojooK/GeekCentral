@@ -1,0 +1,10 @@
+.xls
+.xlsx
+.ods
+.csv
+.tsv
+.xlsm
+.xlsb
+.numbers
+.xml
+.dbf
