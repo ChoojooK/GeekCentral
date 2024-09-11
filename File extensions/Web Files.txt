@@ -1,0 +1,12 @@
+.html
+.htm
+.css
+.js
+.php
+.xml
+.json
+.svg
+.rss
+.xhtml
+.asp
+.aspx
