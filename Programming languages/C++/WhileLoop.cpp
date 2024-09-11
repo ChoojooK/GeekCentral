@@ -1,3 +1,8 @@
+/*
+The while loop in C++ is a control flow statement that repeatedly executes a block of code as long as a specified condition remains true.
+It is useful for scenarios where you don’t know beforehand how many times you need to iterate.
+*/
+
 #include <iostream>
 
 int main() {
