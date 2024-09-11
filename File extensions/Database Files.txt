@@ -1,0 +1,12 @@
+.db
+.sql
+.sqlite
+.mdb
+.accdb
+.csv
+.json
+.xml
+.dbf
+.bak
+.prn
+.rdf
