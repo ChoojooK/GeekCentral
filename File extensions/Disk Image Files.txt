@@ -1,0 +1,11 @@
+.iso
+.img
+.dmg
+.vmdk
+.vdi
+.vhd
+.qcow2
+.bin
+.cue
+.mdf
+.nrg
