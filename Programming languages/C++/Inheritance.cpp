@@ -1,3 +1,8 @@
+/*
+Inheritance in C++ is a fundamental concept in object-oriented programming (OOP) that allows you to create a new class based on an existing class.
+This helps in code reusability and establishing a hierarchical relationship between classes.
+*/
+
 #include <iostream>
 
 // Base class
