@@ -1,3 +1,6 @@
+// const is a keyword used to define constants and make variables or object members immutable, meaning their values cannot be changed after they are initialized.
+// It helps ensure that certain data remains read-only and can prevent accidental modifications.
+
 #include <iostream>
 
 int main() {
