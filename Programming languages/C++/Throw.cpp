@@ -1,3 +1,8 @@
+/*
+In C++, the throw keyword is used to signal the occurrence of an exception, which is an error or unexpected situation that occurs during program execution.
+When an exception is thrown, it disrupts the normal flow of control and transfers it to a specific part of the program designed to handle such situations.
+*/
+
 #include <iostream>
 #include <stdexcept>
 
