@@ -1,3 +1,8 @@
+/*
+A do-while loop is a type of loop that executes a block of code at least once and then repeatedly executes the block as long as a specified condition is true.
+It guarantees that the loop body is executed at least once because the condition is checked after the loop body.
+*/
+
 #include <iostream>
 
 int main() {
