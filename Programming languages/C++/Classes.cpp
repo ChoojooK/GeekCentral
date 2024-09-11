@@ -1,3 +1,7 @@
+// Classes are a fundamental concept in object-oriented programming (OOP). They are used to create user-defined data types that group related variables and functions together.
+
+// A class is like a blueprint for creating objects (instances). It defines a data type by grouping together data (attributes) and functions (methods) that operate on the data.
+
 #include <iostream>
 
 class Rectangle {
