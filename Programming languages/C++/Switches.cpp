@@ -1,3 +1,8 @@
+/*
+In C++, the switch statement allows you to execute different parts of code based on the value of a variable.
+It’s often used as a more readable alternative to multiple if-else statements when you need to handle multiple discrete values.
+*/
+
 #include <iostream>
 
 int main() {
