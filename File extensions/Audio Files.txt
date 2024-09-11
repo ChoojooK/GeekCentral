@@ -1,0 +1,16 @@
+.mp3
+.wav
+.aac
+.flac
+.ogg
+.m4a
+.wma
+.alac
+.aiff
+.opus
+.ra
+.mid
+.midi
+.amr
+.au
+.3ga
