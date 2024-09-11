@@ -1,3 +1,8 @@
+/*
+std::map is a container from the Standard Template Library (STL) that stores key-value pairs.
+It automatically sorts the pairs based on the keys and provides fast lookup, insertion, and deletion.
+*/
+
 #include <iostream>
 #include <map>
 
