@@ -1,3 +1,8 @@
+/*
+The try-catch block in C++ is used to handle exceptions.
+It allows you to manage errors and unexpected situations gracefully by separating error handling code from normal code.
+*/
+
 #include <iostream>
 
 int main() {
