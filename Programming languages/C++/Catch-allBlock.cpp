@@ -1,3 +1,5 @@
+// a catch-all block is used in exception handling to catch any exceptions that aren't specifically handled by other catch blocks. It’s part of the try-catch mechanism for handling runtime errors.
+
 #include <iostream>
 #include <stdexcept>
 
