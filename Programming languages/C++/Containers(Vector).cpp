@@ -1,3 +1,6 @@
+// the std::vector is a powerful and flexible container from the Standard Template Library (STL) that dynamically manages a collection of elements.
+// It provides several features that make it a popular choice for many use cases.
+
 #include <iostream>
 #include <vector>
 
