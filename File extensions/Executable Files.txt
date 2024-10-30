@@ -9,5 +9,4 @@
 .run
 .jar
 .pkg
-.bat
 .pl
