@@ -250,4 +250,4 @@ Don’t worry if you don’t understand everything right away. Take your time, k
 
 ---
 
-Made for complete beginners who want to take their first steps into the world of programming.
+Made for complete beginners who want to take their first steps into the world of programming. Enjoy coding.
