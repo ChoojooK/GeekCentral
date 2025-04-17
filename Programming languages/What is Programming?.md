@@ -107,8 +107,10 @@ This code tells the computer to display the words Hello, world! on the screen.
 
 Another Example:
 
+```python
 name = input("What's your name? ")
 print("Nice to meet you, " + name + "!")
+```
 
 This asks the user for their name and greets them.
 
