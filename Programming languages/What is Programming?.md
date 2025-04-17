@@ -220,6 +220,20 @@ There are great sources out there to start learning coding. These are just a few
 
 ## Glossary
 
+Here’s a quick reference for some common programming terms:
+
+| **Term** | **Definition** |
+|----------|----------------|
+| **Code** | A set of instructions written by a programmer for the computer to follow |
+| **Bug** | A mistake or error in your code that causes it to not work as expected |
+| **Variable** | A named storage for data (like a box where you keep a value) |
+| **Function** | A reusable block of code that performs a specific task |
+| **Loop** | A way to repeat certain instructions multiple times |
+| **If/Else** | Code that makes decisions based on certain conditions |
+| **Syntax** | The rules of writing code correctly in a specific programming language |
+| **Compile** | The process of converting code into something the computer can run |
+| **IDE** | Integrated Development Environment — software where you write and test your code |
+| **Algorithm** | A step-by-step method to solve a problem using code |
 
 ---
 
