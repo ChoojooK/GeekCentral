@@ -8,3 +8,10 @@
 .pot
 .potx
 .pptm
+.sxi
+.sspss
+.ssppt
+.gslides
+.thmx
+.potm
+.pptxml
