@@ -100,7 +100,8 @@ Programming languages are like tools—you choose the right one for the job.
 Here’s a simple program in **Python**:
 
 ```python
-print("Hello, world!")```
+print("Hello, world!")
+```
 
 This code tells the computer to display the words Hello, world! on the screen.
 
