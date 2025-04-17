@@ -22,3 +22,5 @@
 .ccd
 .sub
 .sd2f
+.efi
+.squashfs
