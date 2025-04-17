@@ -177,32 +177,29 @@ Sometimes, some people tell some myths about programming that often discourage b
 
 ## Getting Started
 
-You don’t need a powerful computer or fancy tools to start programming. Here’s how to begin:
+You don’t need a powerful computer or expensive software to start learning programming. Here’s a simple roadmap to begin:
 
-1. Choose a beginner-friendly language: Python is a great start.
+1. **Pick a Beginner-Friendly Language**
+   - Recommended: **Python** (very readable and beginner-friendly)
 
+2. **Choose Where to Write Code**
+   - Online Editor: [Replit](https://replit.com)
+   - Offline Editor: [Visual Studio Code](https://code.visualstudio.com)
 
-2. Pick a code editor: Try Replit.com or VS Code
+3. **Learn the Basics**
+   - **Variables** – Store values (like names or numbers)
+   - **Data Types** – Different kinds of data (text, numbers, true/false)
+   - **If/Else Statements** – Making decisions in your code
+   - **Loops** – Repeating actions
+   - **Functions** – Reusable blocks of code
 
+4. **Practice with Small Projects**
+   - Build a calculator
+   - Create a to-do list
+   - Make a simple text-based game
 
-3. Learn the basics:
-
-Variables
-
-Data types
-
-If/else logic
-
-Loops
-
-Functions
-
-
-
-4. Practice: Try small projects like calculators or simple games.
-
-
-
+5. **Keep Exploring**
+   - Programming is about learning by doing. Keep experimenting and building!
 
 ---
 
