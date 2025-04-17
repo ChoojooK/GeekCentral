@@ -11,3 +11,17 @@
 .svc
 .dmp
 .reg
+.efi
+.bin
+.cab
+.cpl
+.ocx
+.vxd
+.bak
+.ldb
+.swp
+.swap
+.core
+.journal
+.lock
+.pid
