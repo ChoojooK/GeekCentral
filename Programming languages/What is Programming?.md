@@ -161,6 +161,17 @@ Think logically and break problems into steps
 
 ## Common Misconceptions
 
+Here are some myths about programming that often discourage beginners—but they’re not true!
+
+| **Myth** | **Reality** |
+|----------|-------------|
+| Programming is only for geniuses | Anyone can learn to code with patience and practice. It's a skill, not a talent. |
+| You need to be good at math | Most programming requires only basic arithmetic. Logical thinking is more important. |
+| It’s too late to start | Many people start learning to code in their 30s, 40s, 50s or later. Age doesn't matter. |
+| You need a computer science degree | Many successful developers are self-taught or learned through bootcamps and online courses. |
+| Coding is boring | Programming can be very creative—you can make games, apps, art, music, and more! |
+| You have to memorize everything | Programmers Google things all the time. Understanding is more important than memorization. |
+| Programming is only for building apps | You can use code for websites, data analysis, AI, automation, simulations, and so much more. |
 
 ---
 
