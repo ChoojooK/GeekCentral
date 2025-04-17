@@ -117,7 +117,7 @@ This asks the user for their name and greets them.
 
 ---
 
-What Do Programmers Actually Do?
+##What Do Programmers Actually Do?
 
 Programmers:
 
@@ -135,7 +135,7 @@ Think logically and break problems into steps
 
 ---
 
-How Software Is Built
+##How Software Is Built
 
 1. Idea – “I want to make a to-do list app”
 
@@ -159,12 +159,12 @@ How Software Is Built
 
 ---
 
-Common Misconceptions
+##Common Misconceptions
 
 
 ---
 
-Getting Started
+##Getting Started
 
 You don’t need a powerful computer or fancy tools to start programming. Here’s how to begin:
 
@@ -195,17 +195,17 @@ Functions
 
 ---
 
-Useful Resources
+##Useful Resources
 
 
 ---
 
-Glossary
+##Glossary
 
 
 ---
 
-Final Thoughts
+##Final Thoughts
 
 Programming is a superpower in the digital age. Whether you want to build apps, automate boring tasks, or just understand how technology works, coding is a skill worth learning.
 
