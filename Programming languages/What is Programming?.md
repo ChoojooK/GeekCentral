@@ -161,7 +161,7 @@ Think logically and break problems into steps
 
 ## Common Misconceptions
 
-Here are some myths about programming that often discourage beginners—but they’re not true!
+Sometimes, some people tell some myths about programming that often discourage beginners—but they’re not true!
 
 | **Myth** | **Reality** |
 |----------|-------------|
