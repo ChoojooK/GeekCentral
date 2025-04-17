@@ -205,6 +205,16 @@ You don’t need a powerful computer or expensive software to start learning pro
 
 ## Useful Resources
 
+There are great sources out there to start learning coding. These are just a few beginner-friendly platforms to help you learn to code:
+
+| **Type** | **Name** | **Link** |
+|----------|----------|----------|
+| Interactive Courses | freeCodeCamp | [https://www.freecodecamp.org](https://www.freecodecamp.org) |
+| Python Lessons | Python for Everybody | [https://www.py4e.com](https://www.py4e.com) |
+| Visual Coding (For Kids) | Scratch | [https://scratch.mit.edu](https://scratch.mit.edu) |
+| Online Code Editor | Replit | [https://replit.com](https://replit.com) |
+| Practice Challenges | Codewars | [https://www.codewars.com](https://www.codewars.com) |
+| Beginner Exercises | W3Schools | [https://www.w3schools.com](https://www.w3schools.com) |
 
 ---
 
