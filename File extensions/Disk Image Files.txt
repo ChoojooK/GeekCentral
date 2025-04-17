@@ -9,3 +9,16 @@
 .cue
 .mdf
 .nrg
+.vhdx
+.toast
+.uif
+.daa
+.pqi
+.gho
+.imgc
+.cdi
+.cso
+.isz
+.ccd
+.sub
+.sd2f
