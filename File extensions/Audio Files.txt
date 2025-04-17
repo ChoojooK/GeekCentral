@@ -14,3 +14,16 @@
 .amr
 .au
 .3ga
+.mp2
+.ac3
+.dsd
+.dts
+.voc
+.mka
+.ape
+.wv
+.cda
+.ttm
+.gsm
+.spx
+.rm
