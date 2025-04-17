@@ -8,3 +8,13 @@
 .fnt
 .dfont
 .ttc
+.pfa
+.pfb
+.afm
+.mmf
+.bdf
+.pcf
+.suit
+.acfm
+.cid
+.otc
