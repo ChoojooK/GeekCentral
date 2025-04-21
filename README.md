@@ -16,24 +16,19 @@ Thank you for your support and happy coding!
 
 PAYEER: `P1119065341`
 
-Bitcoin: `12KTnD33FYBitWNQv4kpM1Cq9rj8Fypx8s`
+## **Crypto Wallets**
 
-Ethereum: `0xa7746296ab004c0a3ca0c62e78004492ab65739a`
-
-Litecoin: `LMmsqBwVaw4Bj9f4H1o5fgmyXJ9NSa7iRp`
-
-Dogecoin: `D8nfP3p6ygJy7GG3VtX7V2Q4wAWaHE7kqK`
-
-Dash: `XxA9ASXigY2toYgQkDnekSmGGAPRnhaBWo`
-
-Zcash: `t1XC3T6nvJCJ6CRoAYDvGoF48XE4XKHhVPR`
-
-Tron: `TS5FxwtmaqxKjpyrrggiNrNYbJfmdY2ywd`
-
-Solana: `D8D96K5vepPHBKCpWC4J3RkFjTvHP48fdMNjveuQ3Bcv`
-
-BNB: `0xa7746296ab004c0a3ca0c62e78004492ab65739a`
-
-Avalanche-C: `0x54ba720c41b94b70a78a94e18ad2da5df399d7f3`
-
-Polkadot: `15V8YFqPzn6XgEQENvCGF8EipPWts22bn4S4LXYYGPZJzBa`
+| Coin         | Symbol | Wallet Address |
+|--------------|--------|----------------|
+| ₿ Bitcoin          | BTC    | `1PqSSWZogC816NRhs7T7Ruq5MNSh5Gq36Y` |
+| TRON            | TRX    | `TU25TjX1H3LEUWNWYe7iQ1dWPGRQHgQPoS` |
+| Ethereum        | ETH    | `0x4044db6f75e3bf9b7f186e055e310e956864a1c3` |
+| Litecoin        | LTC    | `LL1HnGCWPhcDkyDn2qevGSWL4ZFFrS3wXf` |
+| BNB (BEP-20)    | BNB    | `0x4044db6f75e3bf9b7f186e055e310e956864a1c3` |
+| Bitcoin Cash    | BCH    | `qql6cjpg868dewze6kf2puqv0nhd6svufuvsj6zl6s` |
+| Solana          | SOL    | `4Mb4X7notm5bsB58eBaZQVEs6ajcJRtd7GWFyAtezVcS` |
+| Dogecoin        | DOGE   | `DHJY7ykYQDYt3Rdz3vTkQtzU2ar9AdeAAY` |
+| Dash            | DASH   | `XepGSAau1argKB5aFwuWRLAKG6vx5jL8cq` |
+| Zcash           | ZEC    | `t1KRtURtQMGzUpghngL43PJ6X8ApADJKsrg` |
+| Avalanche-C     | AVAX   | `0xc93ef369582e8b9ea2f6a5c33905940edea36ab6` |
+| Polygon (MATIC) | MATIC  | `0xc3d25cae05baed774c991ac92b5a7b615e77b9fd` |
